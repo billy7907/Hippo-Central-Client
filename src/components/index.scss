@@ -1,0 +1,21 @@
+.hippo-central {
+  .MuiInput-underline {
+    display: block;
+    width: 50%;
+    margin: 20px auto;
+  }
+
+  table {
+    .MuiInput-underline {
+      display: inline-flex;
+      width: 10%;
+      margin: 0;
+    }
+  }
+
+  th {
+    color: skyblue;
+    font-weight: 600;
+    font-size: 18px;
+  }
+}
